@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-core" />
+        <module name="system-design" />
+        <module name="core-java" />
+        <module name="persistence" />
+        <module name="transactions" />
+        <module name="resilience" />
+        <module name="architecture" />
+        <module name="concurrency" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
